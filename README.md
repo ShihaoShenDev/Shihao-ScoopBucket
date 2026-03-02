@@ -31,7 +31,7 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add shihao https://github.com/ShihaoShenDev/Shihao-ScoopBucket
-scoop install <bucketname>/<manifestname>
+scoop install shihao/<appname>
 ```
 
 ## How do I contribute new manifests?
