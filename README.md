@@ -29,7 +29,7 @@ A bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
 ## How do I install these manifests?
 
-After manifests have been committed and pushed, run the following:
+<!--After manifests have been committed and pushed,--> Run the following:
 
 ```pwsh
 scoop bucket add shihao https://github.com/ShihaoShenDev/Shihao-ScoopBucket
